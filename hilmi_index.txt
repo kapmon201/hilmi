@@ -12,3 +12,5 @@ html: information architecture
 html: seo 
 
 OPT: http://s28.bitdl.ir/Video/UDEMY_FRONT_END_WEB_DEVELOPMENT_FOR_BEGINNERS_A_PRACTICAL_GUIDE_TUTORIAL-H0WT0/
+
+akan menambahkan rencana untuk ke poin css
