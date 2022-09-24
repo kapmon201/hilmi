@@ -13,4 +13,10 @@ html: seo
 
 OPT: http://s28.bitdl.ir/Video/UDEMY_FRONT_END_WEB_DEVELOPMENT_FOR_BEGINNERS_A_PRACTICAL_GUIDE_TUTORIAL-H0WT0/
 
-akan menambahkan rencana untuk ke poin css
+1.2 css: basic css
+1.2 css:layouting
+--source wpu 
+
+1.2 css: filter
+1.2 transition, animation
+https://www.youtube.com/watch?v=J0a6YUUAsd4&list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa
