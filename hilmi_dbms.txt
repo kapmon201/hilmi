@@ -1,0 +1,11 @@
+query 
+mengimplementasikan query2 berikut yg didapat dari hasil trial error 
+
+select
+	a.id_dokter as nip, a.id_absen_sore as val_idabsensore, b.nm_pegawai as nm_pegawai, b.id_absen_sore as id_absen_sore 
+from
+	adadoks_validasi a 
+left join 
+	pegawai b 
+on 
+	a.id_dokter = b.nip;
