@@ -20,3 +20,9 @@ OPT: http://s28.bitdl.ir/Video/UDEMY_FRONT_END_WEB_DEVELOPMENT_FOR_BEGINNERS_A_P
 1.2 css: filter
 1.2 transition, animation
 https://www.youtube.com/watch?v=J0a6YUUAsd4&list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa
+
+1.2 responsive design
+--source wpu: https://www.youtube.com/watch?v=qCMLP6GtyBc&list=PLFIM0718LjIXmbwX0dEsoRVX-PC16vmuw
+
+1.2 modern css
+1.2 css architecture
