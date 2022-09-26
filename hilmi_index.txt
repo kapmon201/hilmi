@@ -1,6 +1,7 @@
 1. basic front end:  
 1.1 html: basic html
 -- cek including html5
+-- cek css3
 html: semantic elements
 html: svg & canvas
 html: form validation
@@ -27,3 +28,8 @@ https://www.youtube.com/watch?v=J0a6YUUAsd4&list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-
 
 1.2 modern css
 1.2 css architecture
+
+framework javascript: 
+react 
+vue 
+angular 
