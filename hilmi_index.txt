@@ -1,5 +1,6 @@
 1. basic front end:  
 1.1 html: basic html
+-- cek including html5
 html: semantic elements
 html: svg & canvas
 html: form validation
